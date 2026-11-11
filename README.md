@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Abd</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Satti</h1>
 <h3 align="center">Computer Engineering Student | Exploring Software Development, AI & Embedded Systems</h3>
 
 ---
